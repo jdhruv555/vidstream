@@ -24,7 +24,7 @@ A modern video streaming platform built with React.js and Material-UI. VidStream
 
 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/vidstream.git
+git clone https://github.com/jdhruv555/vidstream.git
 ```
 
 2. Install dependencies
@@ -74,4 +74,4 @@ vidstream/
 
 ## License
 
-Copyright © 2024 VidStream by DHRUV. All rights reserved.
+Copyright 2024 VidStream by DHRUV. All rights reserved.
